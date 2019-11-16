@@ -7,7 +7,7 @@
 > Delete Them
 ```
 
-create a database named `ninja-pizza` and the followin table in it...
+create a database named `ninja-pizza` and then add the following table in it...
 ```
 CREATE TABLE `test`.`pizzas` (
      `id` INT NOT NULL AUTO_INCREMENT ,  
